@@ -1,5 +1,5 @@
 # digitalGods004
-Ajustando la intensidad de la luz
+Ajustando la intensidad de la luz y las estrellas
 
 ![digitalGods](https://github.com/nicolasbaez/digitalGods004/blob/master/portada.png)
 
