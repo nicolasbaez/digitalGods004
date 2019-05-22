@@ -1,7 +1,7 @@
 # digitalGods004
 Ajustando la intensidad de la luz
 
-![digitalGods](https://github.com/nicolasbaez/digitalGods003/blob/master/portada.png)
+![digitalGods](https://github.com/nicolasbaez/digitalGods004/blob/master/portada.png)
 
 1. gameDev.htm
 ```html
